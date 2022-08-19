@@ -5,7 +5,7 @@ In this study, I attempt to determine whether the amount of significant strikes 
 
 I use UFC fight data from February 2014 through October 2018 to build a multiple binary logistic regression.  The predictor variables in this regression are the relative proportions of each type of significant strike.  The response variable is the prediction of the bout's winner.  After creating the full model, I backwards eliminated the model to ultimately end up with a simple binary logistic regression of only head strikes (done via AIC).
 
-For more on the full process, please check out the full journal article!
+For more on the full process, please check out the full [**journal article!**](journal_article.pdf)
 
 Before building the actual model, I first undertook some exploratory data analysis in order to better understand the data.  Based on this analysis, certain variables and observations were removed for various statistical reasons.
 
