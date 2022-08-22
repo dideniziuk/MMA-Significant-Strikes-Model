@@ -14,12 +14,6 @@ Data attained from [**ufc-api**](https://github.com/valish/ufc-api)
 ## File Descriptions
 [**housing_price_model.rmd**](housing_price_model.Rmd): rmarkdown code from start to finish.  Broken into subsections (imports, data exploration/alteration, modeling, final predictions)
 
-[**test.csv**](test.csv): test data
+[**raw_data.csv**](raw_data.csv): raw data from kaggle, that was initially sourced from the repo [**ufc-api**](https://github.com/valish/ufc-api)
 
-[**train.csv**](train.csv): training data
-
-[**testing_predictions.csv**](testing_predictions.csv): final csv export containing predicted prices
-
-[**non_technical_report.pdf**](non_technical_report.pdf): brief business-oriented report describing the task at hand and the most important results in a non-technical manner
-
-[**technical_report.pdf**](technical_report.pdf):  in-depth technical report walking through the various steps of the project.  follows same workflow as the code (housing_price_model.rmd).  explains reasoning for data alterations as well as takeaways from each individual statistical learning technique as applied to the data.  finally gives conclusions and interprets results
+[**journal_article.pdf**](journal_article.pdf): associated article that I wrote, which goes through the context, methodology, and results of the study.  Background on binary logistic regression can be found on page 10. 
