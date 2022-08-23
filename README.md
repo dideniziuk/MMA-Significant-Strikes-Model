@@ -12,7 +12,6 @@ For more on the full process, please check out the full [**journal article**](jo
 Data attained from [**ufc-api**](https://github.com/valish/ufc-api)
 
 ## File Descriptions
-[**housing_price_model.rmd**](housing_price_model.Rmd): rmarkdown code from start to finish.  Broken into subsections (imports, data exploration/alteration, modeling, final predictions)
 
 [**raw_data.csv**](raw_data.csv): raw data from kaggle, that was initially sourced from the repo [**ufc-api**](https://github.com/valish/ufc-api)
 
