@@ -7,7 +7,7 @@ To answer this question, I use UFC fight data from February 2014 through October
 
 After creating the full models, I backwards eliminate them to ultimately end up with two simple binary logistic regressions (done via AIC).  For second round KO/TKOs, head strikes are the sole statistically significant predictor, while for third round KO/TKOs, body strikes are the sole predictor in the model.
 
-For more on the full process, please check out the full [**journal article**](journal_article.pdf)!
+For more on the process, please check out the full [**journal article**](journal_article.pdf)!
 
 Data attained from [**ufc-api**](https://github.com/valish/ufc-api)
 
