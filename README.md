@@ -12,6 +12,7 @@ For more on the process, please check out the full [**journal article**](journal
 Data attained from [**ufc-api**](https://github.com/valish/ufc-api)
 
 ## File Descriptions
+[**mma_strikes_model.Rmd**](mma_strikes_model.Rmd): Code start to finish.  Starts with imports, then data manipulation/exploration, and finally modelling.
 
 [**raw_data.csv**](raw_data.csv): raw data from kaggle, that was initially sourced from the repo [**ufc-api**](https://github.com/valish/ufc-api)
 
