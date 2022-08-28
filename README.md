@@ -14,8 +14,8 @@ Data attained from [**ufc-api**](https://github.com/valish/ufc-api)
 ## File Descriptions
 [**mma_strikes_model.Rmd**](mma_strikes_model.Rmd): Code start to finish.  Starts with imports, then data manipulation/exploration, and finally modelling.
 
-[**markdown.pdf**](markdown.pdf): Knitted Output of Code
+[**markdown.pdf**](markdown.pdf): Knitted output of the code.
 
-[**raw_data.csv**](raw_data.csv): raw data from kaggle, that was initially sourced from the repo [**ufc-api**](https://github.com/valish/ufc-api)
+[**raw_data.csv**](raw_data.csv): Raw data from kaggle, that was initially sourced from the repo [**ufc-api**](https://github.com/valish/ufc-api).  This is the only input file required to run the code. 
 
-[**journal_article.pdf**](journal_article.pdf): associated article that I wrote, which goes through the context, methodology, and results of the study.  Background on binary logistic regression can be found on page 10. 
+[**journal_article.pdf**](journal_article.pdf): Associated article that I wrote, which goes through the context, methodology, and results of the study.  Background on binary logistic regression can be found on page 10. 
